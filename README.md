@@ -1,1 +1,0 @@
-# My Resume written in LaTeX and tracked with Git.
